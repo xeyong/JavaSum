@@ -1,5 +1,5 @@
 package ch01;
-
+//2진수,8진수,16진수
 public class BinaryTest {
 
     public static void main(String[] args) {
