@@ -31,8 +31,6 @@ public class Test3 {
             }
 
 
-
-
         for(int i=0; i<subjects.size(); i++){
             System.out.println(student.getName()+"의  "+subjects.get(i).getSubName()+"과목 성적:"+subjects.get(i).getSubScore());
         }
