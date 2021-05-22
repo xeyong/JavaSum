@@ -14,6 +14,7 @@ public class Test2 {
         System.out.println(james.getMoney());
         System.out.println(thomas.getMoney());
     }
+
 }
 
 class Who{
