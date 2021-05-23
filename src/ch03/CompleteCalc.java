@@ -15,6 +15,11 @@ public class CompleteCalc extends Calculator{
         }
     }
 
+    @Override
+    public void description() {
+        System.out.println("재정의된 description");
+    }
+
     public void showInfo(){
         System.out.println("모두 구현했습니다.");
     }

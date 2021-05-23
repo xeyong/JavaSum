@@ -12,5 +12,10 @@ public class CalculatorTest {
         System.out.println(calc.times(num1, num2));
         System.out.println(calc.substract(num1, num2));
 
+        calc.description();//default메서드를 호출가능
+        int[] arr = {1,2,3,4,5,6};
+        System.out.println(Calc.total(arr));//static메서드
+        Calc2 calc1 = new CompleteCalc();
+        calc1.test();
     }
 }
