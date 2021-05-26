@@ -35,3 +35,5 @@
 * java.lang.Object hashCode()의 역할과 equals()를 재정의하면 hashCode()도 재정의 해야하는지에 대하여 설명할 수 있다.
 * java.lang.Object clone()에 대하여 설명할 수 있다.
 * Class 클래스의 동적로딩 방식에 대하여 설명할 수 있다.
+
+# 4.자료구조
